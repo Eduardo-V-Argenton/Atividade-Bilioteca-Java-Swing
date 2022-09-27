@@ -35,4 +35,4 @@ GRANT ALL PRIVILEGES ON  Biblioteca. * TO 'user'@'localhost';
 FLUSH PRIVILEGES;
 
 
-------------É necessário instalar o mysql connector----------
+------------É necessário inserir o mysql connector----------
