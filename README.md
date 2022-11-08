@@ -1,6 +1,8 @@
 # Atividade-Bilioteca-Java-Swing
 Projeto desenvolvido como uma atividade avaliativa da discipilna de Programação Orientada a Objetos 
 
+```sql
+
 -- Criação Banco
 
 CREATE DATABASE Biblioteca;
@@ -33,6 +35,6 @@ CREATE TABLE Login(
 CREATE USER 'user'@'localhost' IDENTIFIED BY 'password';
 GRANT ALL PRIVILEGES ON  Biblioteca. * TO 'user'@'localhost';
 FLUSH PRIVILEGES;
+```
 
-
-------------É necessário inserir o mysql connector----------
+<h2>É necessário inserir o mysql connector</h2>
